@@ -1,0 +1,26 @@
+{
+  "name": "fullstack-book-library",
+  "version": "0.0.1",
+  "description": "ThsThis application allows you to create your own library with books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikita-Minov/fullstack-book-library.git"
+  },
+  "keywords": [
+    "books",
+    "books-library",
+    "react",
+    "nest",
+    "typescript"
+  ],
+  "author": "Gumus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikita-Minov/fullstack-book-library/issues"
+  },
+  "homepage": "https://github.com/Nikita-Minov/fullstack-book-library#readme"
+}
