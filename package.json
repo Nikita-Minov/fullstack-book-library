@@ -22,5 +22,15 @@
   "bugs": {
     "url": "https://github.com/Nikita-Minov/fullstack-book-library/issues"
   },
-  "homepage": "https://github.com/Nikita-Minov/fullstack-book-library#readme"
+  "homepage": "https://github.com/Nikita-Minov/fullstack-book-library#readme",
+  "dependencies": {
+    "@nestjs/passport": "^8.2.1",
+    "bcrypt": "^5.0.1",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.0",
+    "@types/passport-local": "^1.0.34"
+  }
 }
